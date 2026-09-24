@@ -1,0 +1,5 @@
+C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/build/CMakeFiles/test_asset_tag.dir
+C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/build/CMakeFiles/test_domain.dir
+C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/build/CMakeFiles/test.dir
+C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/build/CMakeFiles/edit_cache.dir
+C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/build/CMakeFiles/rebuild_cache.dir

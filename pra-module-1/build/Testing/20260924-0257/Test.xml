@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260924-0257-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.3.1-msvc1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="LAPTOP-SRILI9SL"
+	OSRelease="10.0.26200"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="5"
+	ModelName="AMD Ryzen 7 260 w/ Radeon 780M Graphics"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="10240"
+	TotalPhysicalMemory="15676"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3801.000000"
+	>
+	<Testing>
+		<StartDateTime>Sep 24 09:57 SE Asia Standard Time</StartDateTime>
+		<StartTestTime>1790218627</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 24 09:57 SE Asia Standard Time</EndDateTime>
+		<EndTestTime>1790218627</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

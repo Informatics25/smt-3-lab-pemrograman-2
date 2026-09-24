@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/test_asset_tag.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles\\test_asset_tag.dir\\cpp\\tests\\test_asset_tag.cpp.obj -c \"C:\\#SEMESTER_3_IF\\7. LABORATORIUM_PEMROGRAMAN_2\\Module1\\cpp\\tests\\test_asset_tag.cpp\"",
+  "file": "C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/cpp/tests/test_asset_tag.cpp",
+  "output": "CMakeFiles/test_asset_tag.dir/cpp/tests/test_asset_tag.cpp.obj"
+},
+{
+  "directory": "C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/test_domain.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles\\test_domain.dir\\cpp\\tests\\test_domain.cpp.obj -c \"C:\\#SEMESTER_3_IF\\7. LABORATORIUM_PEMROGRAMAN_2\\Module1\\cpp\\tests\\test_domain.cpp\"",
+  "file": "C:/#SEMESTER_3_IF/7. LABORATORIUM_PEMROGRAMAN_2/Module1/cpp/tests/test_domain.cpp",
+  "output": "CMakeFiles/test_domain.dir/cpp/tests/test_domain.cpp.obj"
+}
+]

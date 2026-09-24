@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\test_asset_tag.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\test_asset_tag.dir/objects.a @CMakeFiles\test_asset_tag.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -fsanitize=address,undefined -Wl,--whole-archive CMakeFiles\test_asset_tag.dir/objects.a -Wl,--no-whole-archive -o test_asset_tag.exe -Wl,--out-implib,libtest_asset_tag.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_asset_tag.dir\linkLibs.rsp
